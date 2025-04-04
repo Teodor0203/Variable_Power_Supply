@@ -1,3 +1,3 @@
 # Variable_Power_Supply
 
-![Circuit scheme](images/KiCadScheme.png)
+![Circuit scheme](Images/KiCadScheme.png)
